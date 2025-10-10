@@ -1,1 +1,1 @@
-# CS102-Group-Project-Study-Companion-App
+# CS102 (Group-Project): Study Companion App
