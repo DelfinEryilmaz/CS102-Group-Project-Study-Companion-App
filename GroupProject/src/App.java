@@ -8,7 +8,7 @@ public class App extends Application {
     public static void main(String[] args) throws Exception
     {
         Stage stage = new Stage();
-        Pane pane = new Pane();
+        Box pane = new Pane();
         
         Button settings = new Button("Settings");
         Button exit = new Button("Exit App");
