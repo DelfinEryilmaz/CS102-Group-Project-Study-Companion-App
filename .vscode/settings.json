@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": [
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.base.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.controls.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.fxml.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.graphics.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.media.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.swing.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx.web.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\javafx-swt.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\jdk.jsobject.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\jfx.incubator.input.jar",
+        "c:\\Users\\ali.mersin-bcc\\Downloads\\javafx-sdk-25\\lib\\jfx.incubator.richtext.jar"
+    ]
+}
