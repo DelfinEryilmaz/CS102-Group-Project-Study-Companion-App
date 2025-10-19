@@ -1,1 +1,1 @@
-# CS102 (Group-Project): Study Companion App
+October 19: Delfin -> Login page's basic structure and change it to the register page.  
